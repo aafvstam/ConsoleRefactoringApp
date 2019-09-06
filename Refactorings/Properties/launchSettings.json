@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Refactorings": {
+      "commandName": "Project",
+      "commandLineArgs": "C100"
+    }
+  }
+}
